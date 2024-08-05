@@ -2,7 +2,7 @@
   "name": "react-dio-desafio-04-login-hooks-forms",
   "version": "0.1.0",
   "private": true,
-  "homepage": "thompsoncarlos.github.io/react-dio-desafio-04-login-hooks-forms",
+  "homepage": "http://thompsoncarlos.github.io/react-dio-desafio-04-login-hooks-forms",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@testing-library/jest-dom": "^5.17.0",
